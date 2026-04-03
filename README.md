@@ -1,2 +1,2 @@
 # dca_computer_vision
-this repository posses computer vision elements
+this repository possess computer vision elements
